@@ -20,9 +20,10 @@ Fetch any changes, like from CNAME DNS or TLS
 
 	git pull
 
-Tell git that all  local changes should be sent
+Tell git that all local changes should be sent which a change message
 
 	git add .
+	git commit -m 'better things'
 
 Send changes to origin (github)
 
