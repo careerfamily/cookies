@@ -10,6 +10,9 @@ Run the site locally with python
 
 	python3 -m http.server
 
+[Visit locally](http://localhost:8000) at
+
+	http://localhost:8000
 
 # Add and push changes
 
