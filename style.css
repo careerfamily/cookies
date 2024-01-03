@@ -174,7 +174,7 @@ body {
     width: 200px;
     border-width: 8px;
     border-style: solid;
-    border-color: #d08ccc;
+    border-color: #8664d2;
     box-shadow: inset 0 50px rgba(255, 255, 255, 0.1),
     inset 2px -15px 30px rgba(0, 0, 0, 0.4),
     2px 2px 5px rgba(0, 0, 0, 0.3);
@@ -186,7 +186,7 @@ body {
     width: 180px;
     opacity: 0;
     color: #e5e5e5;
-    background-color: rgb(168, 48, 156, 0.5);
+    background-color: rgba(34, 172, 194, 0.5);
     position: absolute;
     margin: 5px;
     line-height: 1.5;
