@@ -132,6 +132,8 @@ body {
     border: 0;
 }
 
+
+
 .animated-about-text {
     color: #fffbea;
     font-weight: 800;
@@ -198,156 +200,7 @@ body {
     opacity: 100%;
 }
 
-/*---Contact Form (not using because my husband said no to servers...:*(---*/
-/*.section-header {*/
-/*    color: #fffbea;*/
-/*    font-size: 60px;*/
-/*    text-transform: uppercase;*/
-/*    text-align: center;*/
-/*}*/
 
-/*.contact {*/
-/*    display: flex;*/
-/*    flex-flow: row wrap;*/
-/*    margin: auto;*/
-/*    max-width: 700px;*/
-/*}*/
-
-/*.contact-left {*/
-/*    display: flex;*/
-/*    flex: 1;*/
-/*    flex-flow: column wrap;*/
-/*    width: 800px;*/
-/*    background: rgb(229, 229, 229);*/
-/*    padding: 20px;*/
-/*    border-top: 10px solid #a8309c;*/
-/*    border-right: none;*/
-/*}*/
-
-/*.contact-left:nth-of-type(even) {*/
-/*    padding-top: 10px;*/
-/*    background-color: #e3dae2;*/
-/*}*/
-
-/*.contact-left h2 {*/
-/*    text-align: center;*/
-/*    color: #2f2e2e;*/
-/*    font: 26px 'Oswald', sans-serif;*/
-/*}*/
-
-/*.contact-left p {*/
-/*    margin: -10px;*/
-/*    padding-left: 15px;*/
-/*    padding-bottom: 15px;*/
-/*    color: #545454;*/
-/*    font: 200 14px 'Oswald', sans-serif;*/
-/*    font-style: italic;*/
-/*}*/
-
-/*label, input, textarea {*/
-/*    display: block;*/
-/*    width: 100%;*/
-/*    font: 200 18px 'Oswald', sans-serif;*/
-/*    color: #2f2e2e;*/
-/*}*/
-
-/*input {*/
-/*    margin-bottom: 15px;*/
-/*}*/
-
-/*textarea {*/
-/*    resize: none;*/
-/*}*/
-
-/*input, textarea {*/
-/*    border: 1px solid rgba(0, 0, 0, .1);*/
-/*    border-radius: 2px;*/
-/*    background: #d0d0d0;*/
-/*    padding-left: 5px;*/
-/*    outline: none;*/
-/*    resize: none;*/
-/*}*/
-
-/*input:focus, textarea:focus {*/
-/*    border: 1px solid #6bd4b1;*/
-/*}*/
-
-/*.contact-em {*/
-/*    color: #f40202;*/
-/*}*/
-
-/*button {*/
-/*    display: flex;*/
-/*    line-height: 2.5;*/
-/*    border: none;*/
-/*    background: #a8309c;*/
-/*    color: #fffbea;*/
-/*    letter-spacing: 2px;*/
-/*    transition: .2s all ease-in-out;*/
-/*    border-bottom: 2px solid transparent;*/
-/*    padding: 5px 20px;*/
-/*    margin: 5px;*/
-/*}*/
-
-/*button:hover {*/
-/*    background: inherit;*/
-/*    color: #a8309c;*/
-/*    border-bottom: 2px solid #a8309c;*/
-/* }*/
-
-/*::selection {*/
-/*     background: rgba(255, 199, 184);*/
-/* }*/
-
-/*.contact-list {*/
-/*    list-style-type: none;*/
-/*    font: 200 16px 'Oswald', sans-serif;*/
-/*}*/
-
-/*.list-item {*/
-/*    line-height: 4;*/
-/*    color: #2f2e2e;*/
-/*}*/
-
-/*.place {*/
-/*    margin-left: 45px;*/
-/*}*/
-
-/*.phone {*/
-/*    margin-left: 45px;*/
-/*}*/
-
-/*.email {*/
-/*    margin-left: 45px;*/
-/*}*/
-
-/*.contact-text a {*/
-/*    color: #2f2e2e;*/
-/*    text-decoration: none;*/
-/*    transition-duration: 0.2s;*/
-/*}*/
-
-/*.contact-text a:hover {*/
-/*    color: #a8309c;*/
-/*    text-decoration: none;*/
-/*}*/
-
-/*.copyright {*/
-/*    font: 200 14px 'Oswald', sans-serif;*/
-/*    color: #555;*/
-/*    letter-spacing: 1px;*/
-/*    text-align: center;*/
-/*    text-transform: uppercase;*/
-/*}*/
-
-/*hr {*/
-/*    color: #d0d0d0;*/
-/*    border-width: 1px;*/
-/*    margin-left: 0;*/
-/*    margin-right: 0;*/
-/*}*/
-
-/*---footer---*/
 footer {
     color: #ffffff;
     text-align: center;
